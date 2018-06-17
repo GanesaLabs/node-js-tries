@@ -1,0 +1,24 @@
+{
+  "name": "testg",
+  "version": "1.0.1",
+  "description": "test module",
+  "main": "hello_word.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GanesaLabs/node-js-tries.git"
+  },
+  "keywords": [
+    "test",
+    "try",
+    "gtry"
+  ],
+  "author": "ganesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GanesaLabs/node-js-tries/issues"
+  },
+  "homepage": "https://github.com/GanesaLabs/node-js-tries#readme"
+}
